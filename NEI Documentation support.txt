@@ -1,0 +1,29 @@
+In an upcoming version, I will be expanding Extra Utilities NEI Documentation to support other mods automatically.
+
+All you need to do is to add an entry to your localization file in the form
+
+doc.<ItemStack's unlocalized name>.name=<Item's name>
+doc.<ItemStack's unlocalized name>.info=<Item's description>
+
+and it will automatically detect it and create a documentation page for it when the recipe/usage command is called on an itemstack that matches that unlocalized name. The item info can be as long as necessary and page and line breaks will be inserted automatically.
+
+
+So for example, if you wish to add documentation for vanilla stone, the unlocalized name for stone is "doc.tile.stone". Thus you can add the following entries...
+
+doc.tile.stone.name=Stone
+doc.tile.stone.info=Stone is the most common block in the overworld, and makes up most of the underground area. It holds valuable ores and gems for you to mine and collect. You cannot mine with your bare hands though, since stone is too hard, and you must use a pickaxe. Mining a stone block will break the blocks structure and give you cobblestone. Cobblestone can be smelted in a furnace to give your regular stone back.
+
+... and an entry will automatically be added to the NEI documentation.
+
+For further examples, see the Extra Utilities en_US.lang.
+
+
+
+If you wish to include manual page breaks, you can have seperate entries for the info in the form
+
+doc.<ItemStack's unlocalized name>.info.0=<Item's description: page 1>
+doc.<ItemStack's unlocalized name>.info.1=<Item's description: page 2>
+doc.<ItemStack's unlocalized name>.info.2=<Item's description: page 3>
+
+You can use either the itemstack-specific version of unlocalized name or the generic version. It will give preference to the itemstack-specific version.
+
