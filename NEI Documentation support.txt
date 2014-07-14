@@ -1,6 +1,6 @@
-In an upcoming version, I will be expanding Extra Utilities NEI Documentation to support other mods automatically.
+As of 1.1.0c, I've expanded Extra Utilities NEI Documentation to support other mods automatically.
 
-Your item/block entries will be in the form "<UnlocalizedName>.name=<Item Name>", so you need to add
+Your item/block entries will be in the form <UnlocalizedName>.name=<Item Name>, so if you add
 
 <UnlocalizedName>.info=<Item's description>
 
