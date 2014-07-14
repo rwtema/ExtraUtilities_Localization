@@ -3,20 +3,21 @@ As of 1.1.0c, I've expanded Extra Utilities NEI Documentation to support other m
 If you open your language file (commonly en_US.lang), your item/block entries will be in the form
 <UnlocalizedName>.name=<Item Name>, so if you add
 
-<UnlocalizedName>.info=<Item's description>
+<UnlocalizedName>.documentation=<Item's description>
 
 then it XU will automatically detect the entry and create a documentation page for it when the recipe/usage
 command is called on an itemstack that matches that unlocalized name. The item info can be as long as
 necessary and page and line breaks will be inserted automatically.
 
 So for example, if you wish to add documentation for vanilla stone, the unlocalized name for stone is
-"tile.stone.name". Thus you can add the following entry for "tile.stone.info", such as...
+"tile.stone.name". Thus you can add the following entry for "tile.stone.documentation", such as...
 
-tile.stone.info=Stone is the most common block in the overworld, and makes up most of the underground area. It holds valuable ores and gems for you to mine and collect. You cannot mine with your bare hands though, since stone is too hard, and you must use a pickaxe. Mining a stone block will break the blocks structure and give you cobblestone. Cobblestone can be smelted in a furnace to give your regular stone back.
+tile.stone.documentation=Stone is the most common block in the overworld, and makes up most of the underground area. It holds valuable ores and gems for you to mine and collect. You cannot mine with your bare hands though, since stone is too hard, and you must use a pickaxe. Mining a stone block will break the blocks structure and give you cobblestone. Cobblestone can be smelted in a furnace to give your regular stone back.
 
 ...and this entry will automatically be added to the NEI documentation.
 
 For further examples, see the Extra Utilities en_US.lang.
+
 
 
 Additional Features
@@ -25,8 +26,8 @@ Additional Features
 You can use either the itemstack-specific version of unlocalizedname or the generic version. If an item has
 entries for both, it will default to the itemstack-specific version.
 
-If you wish to include manual page breaks, you can have seperate entries for the info in the form
+If you wish to include manual page breaks, creat seperate entries for the documentation in the form:
 
-<UnlocalizedName>.info.0=<Item's description: page 1>
-<UnlocalizedName>.info.1=<Item's description: page 2>
-<UnlocalizedName>.info.2=<Item's description: page 3>
+<UnlocalizedName>.documentation.0=<Item's description: page 1>
+<UnlocalizedName>.documentation.1=<Item's description: page 2>
+<UnlocalizedName>.documentation.2=<Item's description: page 3>
