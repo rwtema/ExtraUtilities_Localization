@@ -170,7 +170,25 @@ tile.extrautils:generator.6.name=Potions Generator
 tile.extrautils:generator.7.name=Solar Generator
 tile.extrautils:generator.8.name=TNT Generator
 tile.extrautils:generator.9.name=Pink Generator
-tile.extrautils:greenscreen.name=Green Screen
+
+tile.extrautils:greenscreen.name=Lapis Caelestis
+tile.extrautils:greenscreen.0.name=Lapis Caelestis Albus (White)
+tile.extrautils:greenscreen.1.name=Lapis Caelestis Aurantiacus (Orange)
+tile.extrautils:greenscreen.2.name=Lapis Caelestis Purpura Amethystinus (Magenta)
+tile.extrautils:greenscreen.3.name=Lapis Caelestis Caesicius (Light Blue)
+tile.extrautils:greenscreen.4.name=Lapis Caelestis Flavus (Yellow)
+tile.extrautils:greenscreen.5.name=Lapis Caelestis Viridis (Green)
+tile.extrautils:greenscreen.6.name=Lapis Caelestis Roseus (Pink)
+tile.extrautils:greenscreen.7.name=Lapis Caelestis Cinereus (Gray)
+tile.extrautils:greenscreen.8.name=Lapis Caelestis Lux Cinereus (Light Gray)
+tile.extrautils:greenscreen.9.name=Lapis Caelestis Callainus (Cyan)
+tile.extrautils:greenscreen.10.name=Lapis Caelestis Purpura (Purple)
+tile.extrautils:greenscreen.11.name=Lapis Caelestis Caeruleus (Blue)
+tile.extrautils:greenscreen.12.name=Lapis Caelestis Fuscus (Brown)
+tile.extrautils:greenscreen.13.name=Lapis Caelestis Paphiae Myrti (Dark Green)
+tile.extrautils:greenscreen.14.name=Lapis Caelestis Rufus (Red)
+tile.extrautils:greenscreen.15.name=Lapis Caelestis Nox (Black)
+
 tile.extrautils:magnumTorch.name=Magnum Torch
 tile.extrautils:peaceful_table_top.name=Peaceful Table
 tile.extrautils:pipes.0.name=Transfer Pipe
