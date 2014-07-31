@@ -165,6 +165,23 @@ tile.extrautils:generator.7.name=태양광 발전기
 tile.extrautils:generator.8.name=TNT 발전기
 tile.extrautils:generator.9.name=핑크 발전기
 
+tile.extrautils:greenscreen.name=천상의 돌
+tile.extrautils:greenscreen.0.name=흰색 천상의 돌
+tile.extrautils:greenscreen.1.name=주황색 천상의 돌
+tile.extrautils:greenscreen.2.name=자홍색 천상의 돌
+tile.extrautils:greenscreen.3.name=하늘색 천상의 돌
+tile.extrautils:greenscreen.4.name=노란색 천상의 돌
+tile.extrautils:greenscreen.5.name=연두색 천상의 돌
+tile.extrautils:greenscreen.6.name=분홍색 천상의 돌
+tile.extrautils:greenscreen.7.name=회색 천상의 돌
+tile.extrautils:greenscreen.8.name=밝은 회색 천상의 돌
+tile.extrautils:greenscreen.9.name=청록색 천상의 돌
+tile.extrautils:greenscreen.10.name=보라색 천상의 돌
+tile.extrautils:greenscreen.11.name=파란색 천상의 돌
+tile.extrautils:greenscreen.12.name=갈색 천상의 돌
+tile.extrautils:greenscreen.13.name=초록색 천상의 돌
+tile.extrautils:greenscreen.14.name=빨간색 천상의 돌
+tile.extrautils:greenscreen.15.name=검은색 천상의 돌
 
 tile.extrautils:magnumTorch.name=매그넘 토치
 tile.extrautils:peaceful_table_top.name=피스풀 테이블
