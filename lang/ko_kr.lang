@@ -203,6 +203,25 @@ tile.extrautils:trading_post.name=교역소
 tile.extrautils:trashcan.name=쓰레기통
 tile.extrautils:block_bedrockium.name=베드라키움 블럭
 
+tile.extrautils:endConstructor.2.name=엔더 플럭스 크리스탈
+
+tile.extrautils:qed.rand.0.name=QED (퀀텀 인탱글먼트 디바이스)
+tile.extrautils:qed.rand.1.name=QED (퀀텀 엔더 디바이스)
+tile.extrautils:qed.rand.2.name=QED (퀀텀 인리치먼트 디바이스)
+tile.extrautils:qed.rand.3.name=QED (퀀텀 에너지 디바이스)
+tile.extrautils:qed.rand.4.name=QED (퀀텀 인탱글먼트 디바이너)
+tile.extrautils:qed.rand.5.name=QED (퀀텀 인탱글먼트 두히키)
+tile.extrautils:qed.rand.6.name=QED (퀀텀 엔티티 디바이스)
+tile.extrautils:qed.rand.7.name=QED (퀀텀 엔더 디바이너)
+tile.extrautils:qed.rand.8.name=QED (쿼크/일렉트론 다이렉터)
+tile.extrautils:qed.rand.9.name=QED (콰이트 엘레간트 디바이스)
+tile.extrautils:qed.rand.10.name=QED (쿼드 에라 데몬스트란둠)
+tile.extrautils:qed.rand.11.name=QED (콰키 엔더 디바이스)
+tile.extrautils:qed.rand.12.name=QED (쿼드라틱 이쿠에이션 디바이스)
+tile.extrautils:qed.rand.13.name=QED (퀘일 이팅 덕스)
+tile.extrautils:qed.rand.14.name=QED (퀘이사 인탱글먼트 디바이스)
+tile.extrautils:qed.rand.15.name=QED (콰이트 익스펜시브 데코레이션)
+tile.extrautils:qed.rand.16.name=QED (퀀텀 이미션 디컴파일러)
 
 item.extrautils:angelRing.documentation=천사의 고리는 비행의 힘이 담겨있는 마법적 물품입니다. 인벤토리에 천사의 고리를 소지하면 영구적인 비행 능력을 얻을 수 있습니다.
 item.extrautils:bedrockiumIngot.documentation=알려진 것 중 가장 단단한 물질인 베드라키움은, 물리적으로 가능한 가장 강력한 충격도 버텨낼 수 있습니다. 이름이 기반암을 따서 명명되었고, 성질도 닮아있지만, 진짜 기반암이 아니므로 많은 압력을 받으면 손상되거나 부서질 수 있습니다.
