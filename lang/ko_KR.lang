@@ -52,6 +52,8 @@ item.extrautils:watering_can.empty.name=물뿌리개 (빔)
 item.extrautils:watering_can.reinforced.name=물뿌리개 (강화됨)
 item.extrautils:watering_can.name=물뿌리개
 
+itemGroup.extraUtil=엑스트라 유틸리티
+itemGroup.extraUtil_FMP=엑스트라 유틸리티 마이크로 블록
 
 tile.extrautils:angelBlock.name=천사 블록
 tile.extrautils:budoff.0.name=블록 갱신 감지기
@@ -232,3 +234,14 @@ item.extrautils:erosionShovel.documentation=흙과 모래, 자갈을 매우 빠�
 item.extrautils:ethericsword.documentation=다이아몬드 검보다 약간 더 강력하고 내구도가 무한합니다.
 item.extrautils:golden_bag.documentation=이 작은 가방은 상자 2개 분량의 저장량을 가지고 있고 어디서든 물품을 넣고 꺼낼 수 있습니다. 마우스 우클릭으로 가방을 엽니다.
 item.extrautils:golden_lasso.documentation=황금 올가미를 들고 있는 상태로 골렘을 포함한, 비공격적인 생물체를 마우스 우클릭 하면 황금 올가미 안에 생물체가 저장됩니다. 생물체가 저장된 상태로 지면을 마우스 우클릭 하면 저장된 생물체를 풀어놓습니다.
+item.extrautils:microblocks.0.documentation=파이프 재킷은 FMP에서 호환되는 파이프를 장식하는 마이크로 블록으로 만들어진 장식 블록입니다.(기술적으로 장식할 파이프는 중앙에 위치합니다.)
+item.extrautils:microblocks.1.documentation=울타리는 마이크로 블록으로 만들어졌습니다.
+item.extrautils:nodeUpgrade.0.documentation=속도 업그레이드는 트랜스퍼 노드가 초당 전송할 수 있는 아이템의 갯수를 증가시킵니다.
+item.extrautils:nodeUpgrade.1.documentation.0=필터를 사용하면 트랜스퍼 노드가 전송할 아이템을 설정할 수 있습니다. 마우스 우클릭으로 필터의 설정화면을 열 수 있습니다. 필터에 아이템을 지정할 때 아이템이 소모되지 않습니다. 유령이기 때문이죠.
+item.extrautils:nodeUpgrade.1.documentation.1=필터를 통해서 필요 없는 아이템을 쓰레기통으로 보낼 수 있습니다.
+item.extrautils:nodeUpgrade.2.documentation.0=상호작용 업그레이드는 노드가 블록과 상호작용할 수 있게 합니다. 노드의 종류에 따라 상호작용 가능한 블록이 다릅니다. 이전까지는 업그레이드 없이 가능하였지만, 이제는 업그레이드가 필요합니다.
+item.extrautils:nodeUpgrade.2.documentation.1=트랜스퍼노드 (아이템): 코블스톤 생성기. 조약돌에 노드가 연결되어있고, 조약돌에 물 소스블록과 용암 소스블록이 인접해있는 경우에 노드에 조약돌이 생성됩니다. 상호작용 업그레이드 개수가 많아질수록 한 번에 생성되는 수량이 증가합니다.
+item.extrautils:nodeUpgrade.2.documentation.2=트랜스퍼노드 (아이템): 자동 조합. 작업대에 노드가 연결되어있다면 자동조합 시스템을 구축할 수 있습니다. 작업대 뒤 3x3 범위에 존재하는 저장 블록을 검색하여, 첫 번째 슬롯에 존재하는 아이템을 해당 위치에 대입하여 자동 조합을 시도합니다.
+item.extrautils:nodeUpgrade.2.documentation.3=트랜스퍼노드 (아이템): 아이템 수집. 노드가 상호 작용할 블록이 연결되어있지 않다면, 노드 앞쪽에 존재하는 바닥에 있는 아이템을 수집합니다. 업그레이드 중첩이 많을수록 수집범위가 증가합니다. 필터가 설정되어 있다면 필터에 등록된 아이템만 수집합니다.
+item.extrautils:nodeUpgrade.2.documentation.4=트랜스퍼노드 (액체): 무한 물생성. 노드가 물 블럭에 연결되어 있고, 해당 블록이 2개 이상의 물 소스 블록과 인접할 때, 물을 지속해서 퍼올립니다. 업그레이드 중첩이 많을수록 한 번에 퍼올리는 용량이 늘어납니다.
+item.extrautils:nodeUpgrade.3.documentation=수송량 업그레이드는 노드가 한 번에 수송할 수 있는 아이템 및 액체의 양을 증가시킵니다.
