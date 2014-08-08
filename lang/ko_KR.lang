@@ -205,7 +205,7 @@ tile.extrautils:trading_post.name=교역소
 tile.extrautils:trashcan.name=쓰레기통
 tile.extrautils:block_bedrockium.name=베드라키움 블럭
 
-tile.extrautils:endConstructor.2.name=엔더 플럭스 크리스탈
+tile.extrautils:endConstructor.2.name=엔더가 주입된 수정
 
 tile.extrautils:qed.rand.0.name=QED (퀀텀 인탱글먼트 디바이스)
 tile.extrautils:qed.rand.1.name=QED (퀀텀 엔더 디바이스)
