@@ -5,7 +5,7 @@ death.attack.darkness.player=%1$s 이 %2$s 와 싸우다 어둠에 흡수되었�
 death.attack.darkness=%1$s 는 어둠에 흡수되었습니다.
 death.attack.divbyzero=%1$s 는 치명적인 'java.lang.ArithmeticException: \ by diamond' 피해를 입었습니다.
 
-power.drain=Power Drain Multiplier: x%1$s
+power.drain=에너지 소모 배율: x%1$s
 
 item.extrautils:angelRing.name=천사의 고리
 item.extrautils:angelRing.0.name=투명 날개
@@ -57,8 +57,8 @@ item.extrautils:lawSword.name=귀곡
 item.extrautils:lawSword.tooltip=저주의 검 (WIP)
 
 
-attribute.name.extrautils.armorPiercingAttackDamage=방어 관통 데미지
-attribute.name.extrautils.godSlayingAttackDamage=신성 데미지
+attribute.name.extrautils.armorPiercingAttackDamage=방어 관통 피해
+attribute.name.extrautils.godSlayingAttackDamage=신성 피해
 
 
 
@@ -70,22 +70,22 @@ tile.extrautils:angelBlock.name=천사 블록
 tile.extrautils:budoff.0.name=블록 갱신 감지기
 tile.extrautils:budoff.3.name=고급 블록 갱신 감지기
 
-tile.extrautils:colorBlock.0.name=색칠된 BLOCKNAME (흰색)
-tile.extrautils:colorBlock.1.name=색칠된 BLOCKNAME (주황색)
-tile.extrautils:colorBlock.2.name=색칠된 BLOCKNAME (자홍색)
-tile.extrautils:colorBlock.3.name=색칠된 BLOCKNAME (하늘색)
-tile.extrautils:colorBlock.4.name=색칠된 BLOCKNAME (노란색)
-tile.extrautils:colorBlock.5.name=색칠된 BLOCKNAME (연두색)
-tile.extrautils:colorBlock.6.name=색칠된 BLOCKNAME (분홍색)
-tile.extrautils:colorBlock.7.name=색칠된 BLOCKNAME (회색)
-tile.extrautils:colorBlock.8.name=색칠된 BLOCKNAME (밝은 회색)
-tile.extrautils:colorBlock.9.name=색칠된 BLOCKNAME (청록색)
-tile.extrautils:colorBlock.10.name=색칠된 BLOCKNAME (보라색)
-tile.extrautils:colorBlock.11.name=색칠된 BLOCKNAME (파란색)
-tile.extrautils:colorBlock.12.name=색칠된 BLOCKNAME (갈색)
-tile.extrautils:colorBlock.13.name=색칠된 BLOCKNAME (초록색)
-tile.extrautils:colorBlock.14.name=색칠된 BLOCKNAME (빨간색)
-tile.extrautils:colorBlock.15.name=색칠된 BLOCKNAME (검은색)
+tile.extrautils:colorBlock.0.name=색칠된 BLOCKNAME (흰색 주파수)
+tile.extrautils:colorBlock.1.name=색칠된 BLOCKNAME (주황색 주파수)
+tile.extrautils:colorBlock.2.name=색칠된 BLOCKNAME (자홍색 주파수)
+tile.extrautils:colorBlock.3.name=색칠된 BLOCKNAME (하늘색 주파수)
+tile.extrautils:colorBlock.4.name=색칠된 BLOCKNAME (노란색 주파수)
+tile.extrautils:colorBlock.5.name=색칠된 BLOCKNAME (연두색 주파수)
+tile.extrautils:colorBlock.6.name=색칠된 BLOCKNAME (분홍색 주파수)
+tile.extrautils:colorBlock.7.name=색칠된 BLOCKNAME (회색 주파수)
+tile.extrautils:colorBlock.8.name=색칠된 BLOCKNAME (밝은 회색 주파수)
+tile.extrautils:colorBlock.9.name=색칠된 BLOCKNAME (청록색 주파수)
+tile.extrautils:colorBlock.10.name=색칠된 BLOCKNAME (보라색 주파수)
+tile.extrautils:colorBlock.11.name=색칠된 BLOCKNAME (파란색 주파수)
+tile.extrautils:colorBlock.12.name=색칠된 BLOCKNAME (갈색 주파수)
+tile.extrautils:colorBlock.13.name=색칠된 BLOCKNAME (초록색 주파수)
+tile.extrautils:colorBlock.14.name=색칠된 BLOCKNAME (빨간색 주파수)
+tile.extrautils:colorBlock.15.name=색칠된 BLOCKNAME (검은색 주파수)
 
 tile.extrautils:chandelier.name=샹들리에
 
