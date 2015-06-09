@@ -68,6 +68,12 @@ attribute.name.extrautils.freezeProtection=Защита от замерзани�
 itemGroup.extraUtil=Extra Utilities
 itemGroup.extraUtil_FMP=Extra Utilities: Микроблоки
 
+material.extrautils.bedrockium=Бедрокиум
+material.extrautils.bedrockium.ability=Тяжелый
+material.extrautils.magicwood=Магическая древесина
+material.extrautils.magicwood.ability=Модифицируемая
+material.extrautils.unstableIngot=Unstable Induced
+material.extrautils.unstableIngot.ability=Математический!
 
 tile.extrautils:angelBlock.name=Ангельский блок
 tile.extrautils:budoff.0.name=Детектор обновления блока
