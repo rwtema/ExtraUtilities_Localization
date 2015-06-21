@@ -3,7 +3,7 @@ gui.transferNode=Transfer Node
 
 death.attack.darkness.player=%1$s was consumed by shadows while fighting %2$s
 death.attack.darkness=%1$s was consumed by shadows
-death.attack.divbyzero=%1$s suffered a fatal 'java.lang.ArithmeticException: \ by diamond'
+death.attack.divbyzero=%1$s suffered a fatal 'java.lang.ArithmeticException: / by diamond'
 
 power.drain=Power Drain Multiplier: x%1$s
 
