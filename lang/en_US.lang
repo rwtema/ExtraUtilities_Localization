@@ -7,6 +7,8 @@ death.attack.divbyzero=%1$s suffered a fatal 'java.lang.ArithmeticException: \ b
 
 power.drain=Power Drain Multiplier: x%1$s
 
+nei.options.keys.gui.xu_ping=Search For Item In Nearby Inventories
+
 item.extrautils:angelRing.name=Angel Ring
 item.extrautils:angelRing.0.name=Invisible Wings
 item.extrautils:angelRing.1.name=Feathery Wings
@@ -113,6 +115,9 @@ material.extrautils.unstableIngot.ability=Mathematical!
 tile.extrautils:angelBlock.name=Angel Block
 tile.extrautils:budoff.0.name=Block Update Detector
 tile.extrautils:budoff.3.name=Block Update Detector (Advanced)
+
+tile.extrautils:chestFull.name=Slightly Larger Chest
+tile.extrautils:chestMini.name=Mini-Chest
 
 tile.extrautils:colorBlock.0.name=Colored BLOCKNAME (White Frequency)
 tile.extrautils:colorBlock.1.name=Colored BLOCKNAME (Orange Frequency)
