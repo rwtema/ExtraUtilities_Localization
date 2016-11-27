@@ -261,6 +261,7 @@ extrautils2.text.uses.s.rf.to.create.s.ticks.of.burn=Uses %s RF to create %s tic
 extrautils2.text.west=West
 extrautils2.text.when.all.other.generators.are.creating=When all other generators are creating power, taste the unlimited power of the rainbow
 extrautils2.text.x.s.y.s.z.s=x = %s, y = %s, z = %s
+extrautils2.text.you.feel.your.luck.changing=You feel your luck changing
 
 item.ExtraUtils2:AngelRing.name=Angel Ring
 item.ExtraUtils2:BagOfHolding.name=Bag Of Holding
@@ -312,6 +313,7 @@ item.ExtraUtils2:ItemCreativeDestructionWand.name=Creative Destruction Wand
 item.ExtraUtils2:ItemDestructionWand.name=Destruction Wand
 item.ExtraUtils2:Klein.name=Klein Flask
 item.ExtraUtils2:LawSword.name=Law Sword
+item.ExtraUtils2:MagicApple.name=Magical Apple
 item.ExtraUtils2:PowerManager.name=Power Manager
 item.ExtraUtils2:Sickle_diamond.name=Diamond Sickle
 item.ExtraUtils2:Sickle_gold.name=Golden Sickle
