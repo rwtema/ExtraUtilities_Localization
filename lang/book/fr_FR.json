@@ -1,10 +1,11 @@
 {
   "title": "Manuel d'Extra Utilities 2",
   "author": "RWTema",
+  "Translators": "Seluj78"
   "pages": [
     {
       "title": "Introduction",
-      "text": "This mod is currently WIP and future versions will be iterating on this version. As such certain items/blocks are not finished and/or will be changed. Use at your own risk."
+      "text": "Ce mod est actuellement en developpement et les versions futures se supperposerons sur celle-ci. De ce fait certains items/blocks ne sont pas terminés/seront changés. A utiliser a vos propres risques."
     },
     {
       "title": "Grid Power",
